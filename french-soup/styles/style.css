@@ -7,3 +7,36 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
+
+.background{
+  background-image: url("../images/soup.jpg");
+  height: 900px;
+  width: 900px; ;
+}
+
+.container{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.textonion{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+}
+
+.onionsoup{
+width: 1000px;
+height:500px;
+}
+
+.list{
+list-style:'-';
+}
+
+
+
+
